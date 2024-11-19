@@ -34,7 +34,7 @@
   Want to chat about web development or collaborate on a project? Feel free to reach out!  
 </p>
 <ul>
-  <li><strong>Email:</strong> <a href="mailto:your-email@example.com">your-email@example.com</a></li>
+  <li><strong>Email:</strong> <a href="carlosjeremias057@gmail.com">your-email@example.com</a></li>
   <li><strong>LinkedIn:</strong> <a href="#">Your LinkedIn Profile</a> (optional)</li>
   <li><strong>Twitter:</strong> <a href="#">Your Twitter Handle</a> (optional)</li>
 </ul>
